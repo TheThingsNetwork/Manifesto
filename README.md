@@ -1,12 +1,12 @@
-#The Things Network Manifesto
+# The Things Network Manifesto
 
 Everything that carries power will be connected to Internet eventually.
 
 Controlling the network that makes this possible means controlling
-the world. We believe that this power should not be restricted to a
+the world. *We believe that this power should not be restricted to a
 few people, companies or nations. Instead this should be distributed
 over as many people as possible without the possibility to be taken
-away by anyone. We therefore founded "The Things Network".
+away by anyone.* We therefore founded "The Things Network".
 
 The Things Network is an open source, free initiative with the
 following properties:
