@@ -1,4 +1,4 @@
-#The Things Network Manifesto
+# The Things Network Manifesto
 
 Everything that carries power will be connected to Internet eventually.
 
