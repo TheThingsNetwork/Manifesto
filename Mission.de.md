@@ -22,7 +22,7 @@ Jeder sollte in der Lage sein, Sensorendaten entweder zu versenden oder online a
 
 Unsere Mission ist der Aufbau eines dezentralen, Technologieunabhängigen IoT Netzwerkes, welches durch die Gemeinschaft der Nutzer betrieben wird und deren Eigentum ist.
 
-Wir erschaffen ein verteiltes Netzwerk, welches jegliche Formen der IoT Verbindungen unterstützt. Ein Netzwerk, welches von Beginn an demokratisch aufgebaut ist. Wir wollen sicherstellen, dass keine einzelne Macht IoT dominieren kann. Deshalb achten wir auf Netzwerkneutralität und eine Basis verteilte Installationen von Gateways, welche über ein Netzwerk zum Datenaustausch verbunden sind.
+Wir erschaffen ein verteiltes Netzwerk, welches jegliche Formen der IoT Verbindungen unterstützt. Ein Netzwerk, welches von Beginn an demokratisch aufgebaut ist. Wir wollen sicherstellen, dass kein einzelner Akteur IoT dominieren kann. Deshalb achten wir auf Netzneutralität und stellen eine Basis von verteilten Installationen von Gateways bereit, welche über ein Netzwerk zum Datenaustausch verbunden sind.
 
 Wir sind das Netzwerk.
 
