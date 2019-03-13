@@ -26,7 +26,7 @@ Wir erschaffen ein verteiltes Netzwerk, welches jegliche Formen der IoT Verbindu
 
 Wir sind das Netzwerk.
 
-Das Fundament dieses Netzwerkes sind die folgenden Prinzipien:
+Das Fundament des _The Things Network_ sind die folgenden Prinzipien:
 
 * **Ihre Daten sind Ihre Daten** - Daten sind Ende zu Ende verschlüsselt.
 * **Netzneutralität** - Jegliche Daten werden gleich behandelt.
