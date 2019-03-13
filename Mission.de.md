@@ -12,7 +12,7 @@ Das Internet of Things benötigt hohe Kommunikationsreichweiten bei geringen Bat
 
 Dem Ansatz von Moore‘s Gesetz folgend, verringern sich die Kosten von Computerkomponenten exponentiell. Die neue Generation von Netzwerkgeräten haben einen Preissegment erreicht, welches eine Finanzierung eines Community-basierten Netzwerkes durch ermöglicht.
 
-Aktuelle Technologien machen es nun möglich ein kostengünstiges Datennetzwerk zu schaffen, welches durch eine freie Gemeinschaft der Nutzer bereitgestellt wird. Für ein Land wie beispielsweise die Niederlande, benötigt man weniger als 80 Gateways für eine flächendeckende Versorgung. Eine Stadt wie Amsterdam benötigt dafür nur 5 Gateways. Bei Kosten für ein Gateway, die mit denen eines durchschnittlichen Laptops vergleichbar sind, ist dies ein gut erreichbares Ziel.
+Aktuelle Technologien machen es nun möglich, ein kostengünstiges Datennetzwerk zu schaffen, welches durch eine freie und offene Community bereitgestellt wird. Für ein Land wie beispielsweise die Niederlande, benötigt man weniger als 80 Gateways für eine flächendeckende Versorgung. Eine Stadt wie Amsterdam benötigt dafür nur 5 Gateways. Bei Kosten für ein Gateway, die mit denen eines durchschnittlichen Laptops vergleichbar sind, ist dies ein gut erreichbares Ziel.
 
 Beispiele für Anwendungen reichen von kostengünstiger Positionserkennung in Schiffscontainern bis hin zu kleinen Halsbändern für Katzen, um diese immer ausfindig machen zu können.
 
