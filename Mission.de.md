@@ -16,7 +16,7 @@ Aktuelle Technologien machen es nun möglich, ein kostengünstiges Datennetzwerk
 
 Beispiele für Anwendungen reichen von kostengünstiger Positionserkennung in Schiffscontainern bis hin zu kleinen Halsbändern für Katzen, um diese immer ausfindig machen zu können.
 
-Jeder sollte in der Lage sein, Sensorendaten entweder zu versenden oder online abrufen zu können. Keine Monopole oder beschränkter Marktzugang sollte hier möglich sein.
+Jeder sollte in der Lage sein, Sensorendaten entweder zu versenden oder online abrufen zu können. Diese Freiheit sollte durch keine privaten oder staatlichen Monopole beschränkt werden.
 
 ## Mission
 
