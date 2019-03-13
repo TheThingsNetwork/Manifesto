@@ -40,6 +40,6 @@ Das The Things Network wurde in Amsterdam gestartet. Wir haben bereits Partner g
 
 ## Gemeinschaft
 
-Das Ziel unserer Gemeinschaft ist es, ein weltweit dezentrales Internet of Things Internet zu erschaffen. 
+Das Ziel unserer Community ist es, ein weltweites, dezentrales Internet of Things Internet zu erschaffen. 
 
 Dezentralisierung steht im Mittelpunkt von allem. Sie spielt bei jeder Design- oder  Architekturentscheidung eine tragende Rolle, um in jedem Fall zu verhindern, dass eine einzelne Macht Kontrolle über das Netzwerk erlangen kann.
