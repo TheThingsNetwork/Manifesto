@@ -6,7 +6,7 @@ Das The Things Network ist ein offenes, dezentrales und "crowd sourced" Internet
 
 Menschen, die damals ihre Netzwerke geöffnet und Datenaustausch über diese Netze zuließen, haben das Internet erschaffen. Dadurch entstand eine Synergie, die ein Wachstum ermöglichte, welches zu etwas führte, was heute mehr ist als die Summe seiner Einzelteile.
 
-Das The Things Network will zukünftig das gleiche mit dem IoT Netzwerk versuchen.
+Im selben Geiste möchte _The Things Network_ ein weltweites, offenes IoT Netzwerk ermöglichen.
 
 Das Internet of Things benötigt hohe Kommunikationsreichweiten bei geringen Batteriekapazitäten und kostengünstige Lösungen zur Ermittlung von Sensordaten und der Kommunikation zwischen der Cloud und Einzelgeräten.
 
