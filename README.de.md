@@ -2,7 +2,7 @@
 
 Alles, was mit elektrischer Energie betrieben wird, wird auch irgendwann mit dem Internet verbunden werden.
 
-Diejenigen, die dieses Netzwerk kontrollieren, werden die Welt kontrollieren. *__Wir glauben, dass eine solche Macht nicht auf wenige Personen, Firmen oder Nationen verteilt sein sollte. Wir glauben eine solche Macht sollte über so viele Personen wie möglich verteilt werden.__* Um das zu erreichen haben wir das „The Things Network“ gegründet.
+Diejenigen, die dieses Netzwerk kontrollieren, werden die Welt kontrollieren. *__Wir glauben, dass eine solche Macht nicht auf wenige Personen, Firmen oder Nationen konzentriert sein sollte. Wir glauben, dass eine solche Macht an so viele Personen wie möglich verteilt werden muss.__* Um das zu erreichen, haben wir das „The Things Network“ gegründet.
 
 Das „The Things Network“ ist eine quelloffen orientierte und unabhängige Bewegung mit den folgenden Grundsätzen:
 
