@@ -10,7 +10,7 @@ Im selben Geiste möchte _The Things Network_ ein weltweites, offenes IoT Netzwe
 
 Das Internet of Things benötigt hohe Kommunikationsreichweiten bei geringen Batteriekapazitäten und kostengünstige Lösungen zur Ermittlung von Sensordaten und der Kommunikation zwischen der Cloud und Einzelgeräten.
 
-Dem Ansatz von Moore‘s Gesetz folgend, verringern sich die Kosten von Computerkomponenten exponentiell. Die neue Generation von Netzwerkgeräten haben einen Preissegment erreicht, welches eine Finanzierung eines Netzwerkes durch die Masse (crowd) möglich macht.
+Dem Ansatz von Moore‘s Gesetz folgend, verringern sich die Kosten von Computerkomponenten exponentiell. Die neue Generation von Netzwerkgeräten haben einen Preissegment erreicht, welches eine Finanzierung eines Community-basierten Netzwerkes durch ermöglicht.
 
 Aktuelle Technologien machen es nun möglich ein kostengünstiges Datennetzwerk zu schaffen, welches durch eine freie Gemeinschaft der Nutzer bereitgestellt wird. Für ein Land wie beispielsweise die Niederlande, benötigt man weniger als 80 Gateways für eine flächendeckende Versorgung. Eine Stadt wie Amsterdam benötigt dafür nur 5 Gateways. Bei Kosten für ein Gateway, die mit denen eines durchschnittlichen Laptops vergleichbar sind, ist dies ein gut erreichbares Ziel.
 
