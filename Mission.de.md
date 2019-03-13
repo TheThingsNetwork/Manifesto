@@ -1,6 +1,6 @@
 #  The Things Network
 
-Das The Things Network ist ein offenes, dezentrales und "crowd sourced" Internet of Things (IoT) Datennetzwerk.
+Das _The Things Network_ ist ein offenes, dezentrales und "crowd sourced" Internet of Things (IoT) Datennetzwerk.
 
 ## Vision
 
