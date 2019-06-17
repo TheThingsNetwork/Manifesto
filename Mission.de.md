@@ -30,7 +30,7 @@ Das Fundament des _The Things Network_ sind die folgenden Prinzipien:
 
 * **Ihre Daten sind Ihre Daten** - Daten sind Ende zu Ende verschlüsselt.
 * **Netzneutralität** - Jegliche Daten werden gleich behandelt.
-* **Quelloffen** - echnologie die der Gemeinschaft entspringt wird Quelloffen zur Verfügung gestellt.
+* **Quelloffen** - Technologie die der Gemeinschaft entspringt wird Quelloffen zur Verfügung gestellt.
 
 ## Der Plan
 
