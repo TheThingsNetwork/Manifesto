@@ -79,7 +79,9 @@ decisions when appropriate.
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
 Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
+posting via an official social media account, posting via a social media account
+associated with a local community, posting via other social media accounts that
+use (a version of) the logo of The Things Network, or acting as an appointed
 representative at an online or offline event.
 
 ## Enforcement
