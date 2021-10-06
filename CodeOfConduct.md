@@ -2,7 +2,7 @@
 
 ## Community Values
 
-These are the values to which people in community of The Things Stack should aspire.
+These are the values to which people in community of The Things Network should aspire.
 
 * Be friendly and welcoming.
 * Be patient.
